@@ -3,5 +3,3 @@ Hello!
 Welcome to Git.
 
 Updating the file from UI
-
-Additional commits
